@@ -1,0 +1,1163 @@
+Deer Management Unit
+(DMu):
+Ozaukee
+
+Total Area: 2345Q MI
+Deer Range: 84 SQ MI
+% Deer Range: 36%
+Public Land: 6SQ MI
+% Public Land: 3%
+
+Deer Range on
+Public Land:
+
+5 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Dane
+
+Total Area: 1237 SQ MI
+Deer Range: 428 SQ MI
+% Deer Range: 35%
+Public Land: 41 SQ MI
+% Public Land: 3%
+
+Deer Range on
+Public Land:
+34 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Monroe
+
+Total Area: 814S5Q MI
+Deer Range: 617 SQ MI
+% Deer Range: 76%
+Public Land: 50 SQ MI
+% Public Land: 6%
+
+Deer Range on
+Public Land:
+48 SQ MI
+==================================
+
+Deer Management Unit
+(DMu):
+Winnebago
+
+Total Area: 578SQ MI
+Deer Range: 124SQ MI
+% Deer Range: 22%
+Public Land: 21 SQ MI
+% Public Land: 4%
+
+Deer Range on
+Public Land:
+17 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Dunn
+
+Total Area: 8645Q MI
+Deer Range: 519 SQ MI
+% Deer Range: 60%
+Public Land: 50 SQ MI
+% Public Land: 6%
+
+Deer Range on
+Public Land:
+43 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Fond du Lac
+
+Total Area: 765SQ MI
+Deer Range: 227SQ MI
+% Deer Range: 30%
+Public Land: 43 SQ MI
+% Public Land: 6%
+
+Deer Range on
+Public Land:
+32 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Sauk
+
+Total Area: 8485Q MI
+Deer Range: 568 SQ MI
+% Deer Range: 67%
+Public Land: 62 SQ MI
+% Public Land: 7%
+
+Deer Range on
+Public Land:
+57 SQ MI
+==================================
+
+Deer Management Unit
+(DMu):
+Grant
+
+Total Area: 1182 SQ MI
+Deer Range: 523 SQ MI
+% Deer Range: 44%
+Public Land: 69 SQ MI
+% Public Land: 6%
+
+Deer Range on
+Public Land:
+38 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Lincoln
+
+Total Area: 906SQ MI
+Deer Range: 828 SQ MI
+% Deer Range: 91%
+Public Land: 293 SQ MI
+% Public Land: 32%
+
+Deer Range on
+Public Land:
+290 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Marinette
+
+Total Area: 1429 SQ MI
+Deer Range: 1293 SQ MI
+% Deer Range: 90%
+Public Land: 465 SQ MI
+% Public Land: 33%
+
+Deer Range on
+Public Land:
+458 SQ MI
+
+
+==================================
+
+Deer Management Unit
+(DMu):
+Adams
+
+Total Area: 6885Q MI
+Deer Range: 526 SQ MI
+% Deer Range: 76%
+Public Land: 72 SQ MI
+% Public Land: 11%
+
+Deer Range on
+Public Land:
+67 SQ MI
+==================================
+
+Deer Management Unit
+(DMu):
+Jackson
+
+Total Area: 999SQ MI
+Deer Range: 844SQ MI
+% Deer Range: 84%
+Public Land: 328 SQ MI
+% Public Land: 33%
+
+Deer Range on
+Public Land:
+321 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Juneau
+
+Total Area: 8304S5Q MI
+Deer Range: 642 SQ MI
+% Deer Range: 80%
+Public Land: 200 SQ MI
+% Public Land: 25%
+
+Deer Range on
+Public Land:
+186 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Green
+
+Total Area: 5845Q MI
+Deer Range: 139 SQ MI
+% Deer Range: 24%
+Public Land: 11 SQ MI
+% Public Land: 2%
+
+Deer Range on
+
+Public Land:
+8 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Oneida
+
+Total Area: 1234 SQ MI
+Deer Range: 1085 SQ MI
+% Deer Range: 88%
+Public Land: 572 SQ MI
+% Public Land: 46%
+
+Deer Range on
+Public Land:
+556 SQ MI
+==================================
+
+Deer Management Unit
+(DMu):
+Waukesha
+
+Total Area: 580SQ MI
+Deer Range: 284 SQ MI
+% Deer Range: 49%
+Public Land: 35 SQ MI
+% Public Land: 6%
+
+Deer Range on
+Public Land:
+31 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Douglas
+
+Total Area: 1339 SQ MI
+Deer Range: 1252 SQ MI
+% Deer Range: 94%
+Public Land: 669 SQ MI
+% Public Land: 50%
+
+Deer Range on
+Public Land:
+659 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Sawyer
+
+Total Area: 1226 SQ MI
+Deer Range: 1114 SQ MI
+% Deer Range: 91%
+Public Land: 654SQ MI
+% Public Land: 53%
+
+Deer Range on
+Public Land:
+643 SQ MI
+==================================
+
+Deer Management Unit
+(DMu):
+
+Milwaukee
+
+Total Area: 243SQ MI
+Deer Range: 46 SQ MI
+% Deer Range: 19%
+Public Land: 1SQ MI
+% Public Land: 0%
+
+Deer Range on
+Public Land:
+1 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Columbia
+
+Total Area: 795SQ MI
+Deer Range: 379 SQ MI
+% Deer Range: 48%
+Public Land: 40 SQ MI
+% Public Land: 5%
+
+Deer Range on
+Public Land:
+33 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Forest
+
+Total Area: 1046 SQ MI
+Deer Range: 993 SQ MI
+% Deer Range: 95%
+Public Land: 740 SQ MI
+% Public Land: 71%
+
+Deer Range on
+Public Land:
+726 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Marquette
+
+Total Area: 464SQ MI
+Deer Range: 366 SQ MI
+% Deer Range: 79%
+Public Land: 23 SQ MI
+% Public Land: 5%
+
+Deer Range on
+Public Land:
+20 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Florence
+
+Total Area: 497SQ MI
+Deer Range: 475 SQ MI
+% Deer Range: 96%
+Public Land: 301SQ MI
+% Public Land: 61%
+
+Deer Range on
+Public Land:
+297 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Washington
+
+Total Area: 436SQ MI
+Deer Range: 209 SQ MI
+% Deer Range: 48%
+Public Land: 21 SQ MI
+% Public Land: 5%
+
+Deer Range on
+Public Land:
+
+19 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Polk
+
+Total Area: 956SQ MI
+Deer Range: 655 SQ MI
+% Deer Range: 68%
+Public Land: 86 SQ MI
+% Public Land: 9%
+
+Deer Range on
+Public Land:
+79 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Bayfield
+
+Total Area: 1482 SQ MI
+Deer Range: 1391 SQ MI
+% Deer Range: 94%
+Public Land: 814SQ MI
+% Public Land: 55%
+
+Deer Range on
+Public Land:
+803 SQMI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Crawford
+
+Total Area: 599SQ MI
+Deer Range: 483 SQ MI
+% Deer Range: 81%
+Public Land: 69 SQ MI
+% Public Land: 12%
+
+Deer Range on
+Public Land:
+44 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Buffalo
+
+Total Area: 709SQ MI
+Deer Range: 527 SQ MI
+% Deer Range: 74%
+Public Land: 55 SQ MI
+% Public Land: 8%
+
+Deer Range on
+Public Land:
+29 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Clark
+
+Total Area: 1218 SQ MI
+Deer Range: 771SQ MI
+% Deer Range: 63%
+Public Land: 223 SQ MI
+% Public Land: 18%
+
+Deer Range on
+Public Land:
+221 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Vilas
+
+Total Area: 906SQ MI
+Deer Range: 764SQ MI
+% Deer Range: 84%
+Public Land: 422 SQ MI
+% Public Land: 47%
+
+Deer Range on
+Public Land:
+410 SQMI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Calumet
+
+Total Area: 397SQ MI
+Deer Range: 77 SQ MI
+% Deer Range: 19%
+Public Land: 19 SQ MI
+% Public Land: 5%
+
+Deer Range on
+Public Land:
+14 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Burnett
+
+Total Area: 880SQ MI
+Deer Range: 759 SQ MI
+% Deer Range: 86%
+Public Land: 314SQ MI
+% Public Land: 36%
+
+Deer Range on
+Public Land:
+299 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Waushara
+
+Total Area: 637SQ MI
+Deer Range: 450 SQ MI
+% Deer Range: 71%
+Public Land: 34 SQ MI
+% Public Land: 5%
+
+Deer Range on
+Public Land:
+32 SQ MI
+==================================
+
+Deer Management Unit
+(DMu):
+
+Price
+
+Total Area: 1277 SQ MI
+Deer Range: 1218 SQ MI
+% Deer Range: 95%
+Public Land: 533 SQ MI
+% Public Land: 42%
+
+Deer Range on
+Public Land:
+525 SQ MI
+==================================
+
+Deer Management Unit
+(DMu):
+
+Pierce
+
+Total Area: 592SQ MI
+Deer Range: 294SQ MI
+% Deer Range: 50%
+Public Land: 15 SQ MI
+% Public Land: 3%
+
+Deer Range on
+Public Land:
+11 SQ MI
+==================================
+
+Deer Management Unit
+(DMu):
+
+Outagamie
+
+Total Area: 6445Q MI
+Deer Range: 218SQ MI
+% Deer Range: 34%
+Public Land: 18 SQ MI
+% Public Land: 3%
+
+Deer Range on
+Public Land:
+17 SQ MI
+==================================
+
+Deer Management Unit
+(DMu):
+Lafayette
+
+Total Area: 634S5Q MI
+Deer Range: 102 SQ MI
+% Deer Range: 16%
+Public Land: 11 SQ MI
+% Public Land: 2%
+
+Deer Range on
+Public Land:
+8 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Kenosha
+
+Total Area: 279SQ MI
+Deer Range: 89 SQ MI
+% Deer Range: 32%
+Public Land: 12 SQ MI
+% Public Land: 4%
+
+Deer Range on
+Public Land:
+10 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Ashland
+
+Total Area: 814S5Q MI
+Deer Range: 769 SQ MI
+% Deer Range: 94%
+Public Land: 453 SQ MI
+% Public Land: 56%
+
+Deer Range on
+Public Land:
+450 SQMI
+==================================
+
+Deer Management Unit
+(DMu):
+Marathon
+
+Total Area: 1575 SQ MI
+Deer Range: 1073 SQ MI
+% Deer Range: 68%
+Public Land: 124SQ MI
+% Public Land: 8%
+
+Deer Range on
+Public Land:
+115 SQMI
+
+==================================
+
+Deer Management Unit
+(DMu):
+La Crosse
+
+Total Area: 480SQ MI
+Deer Range: 340 SQ MI
+% Deer Range: 71%
+Public Land: 52 SQ MI
+% Public Land: 11%
+
+Deer Range on
+Public Land:
+
+26 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Chippewa
+
+Total Area: 1041 SQ MI
+Deer Range: 667 SQ MI
+% Deer Range: 64%
+Public Land: 82 SQ MI
+% Public Land: 8%
+
+Deer Range on
+Public Land:
+
+77 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Walworth
+
+Total Area: 576SQ MI
+Deer Range: 198 SQ MI
+% Deer Range: 34%
+Public Land: 27 SQ MI
+% Public Land: 5%
+
+Deer Range on
+Public Land:
+23 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Rusk
+
+Total Area: 930SQ MI
+Deer Range: 836 SQ MI
+% Deer Range: 90%
+Public Land: 250 SQ MI
+% Public Land: 27%
+
+Deer Range on
+Public Land:
+247 SQMI
+==================================
+
+Deer Management Unit
+(DMu):
+
+Vernon
+
+Total Area: 816S5Q MI
+Deer Range: 576 SQ MI
+% Deer Range: 71%
+Public Land: 49 SQ MI
+% Public Land: 6%
+
+Deer Range on
+Public Land:
+25 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Richland
+
+Total Area: 5895Q MI
+Deer Range: 477 SQ MI
+% Deer Range: 81%
+Public Land: 21 SQ MI
+% Public Land: 4%
+
+Deer Range on
+Public Land:
+19 SQ MI
+==================================
+
+Deer Management Unit
+(DMu):
+
+Brown
+
+Total Area: 535S5Q MI
+Deer Range: 158SQ MI
+% Deer Range: 30%
+Public Land: 3SQ MI
+% Public Land: 2%
+
+Deer Range on
+Public Land:
+
+7 SQMI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Taylor
+
+Total Area: 984SQ MI
+Deer Range: 848 SQ MI
+% Deer Range: 86%
+Public Land: 265 SQ MI
+% Public Land: 27%
+
+Deer Range on
+Public Land:
+259 SQ MI
+==================================
+
+Deer Management Unit
+(DMu):
+
+Sheboygan
+
+Total Area: 518SQ MI
+Deer Range: 204SQ MI
+% Deer Range: 39%
+Public Land: 39 SQ MI
+% Public Land: 8%
+
+Deer Range on
+Public Land:
+
+33 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+lowa
+
+Total Area: 767SQ MI
+Deer Range: 410SQ MI
+% Deer Range: 53%
+Public Land: 36 SQ MI
+% Public Land: 5%
+
+Deer Range on
+Public Land:
+32 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Pepin
+
+Total Area: 2495Q MI
+Deer Range: 152SQ MI
+% Deer Range: 61%
+Public Land: 10 SQ MI
+% Public Land: 4%
+
+Deer Range on
+Public Land:
+
+9 SQ MI
+==================================
+
+Deer Management Unit
+(DMu):
+Portage
+
+Total Area: 822SQ MI
+Deer Range: 517SQ MI
+% Deer Range: 63%
+Public Land: 59 SQ MI
+% Public Land: 7%
+
+Deer Range on
+Public Land:
+42 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Oconto
+
+Total Area: 1017 SQ MI
+Deer Range: 791SQ MI
+% Deer Range: 78%
+Public Land: 307 SQ MI
+% Public Land: 30%
+
+Deer Range on
+Public Land:
+303 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Wood
+
+Total Area: 809SQ MI
+Deer Range: 569 SQ MI
+% Deer Range: 70%
+Public Land: 107 SQ MI
+% Public Land: 13%
+
+Deer Range on
+Public Land:
+101 SQMI
+==================================
+
+Deer Management Unit
+(DMu):
+Washburn
+
+Total Area: 853SQ MI
+Deer Range: 749 SQ MI
+% Deer Range: 88%
+Public Land: 295 SQ MI
+% Public Land: 35%
+
+Deer Range on
+Public Land:
+285 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Kewaunee
+
+Total Area: 344SQ MI
+Deer Range: 123 SQ MI
+% Deer Range: 36%
+Public Land: 6SQ MI
+% Public Land: 2%
+
+Deer Range on
+Public Land:
+5 SQMI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Manitowoc
+
+Total Area: 596SQ MI
+Deer Range: 211SQ MI
+% Deer Range: 35%
+Public Land: 18 SQ MI
+% Public Land: 3%
+
+Deer Range on
+Public Land:
+
+15 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Barron
+
+Total Area: 890SQ MI
+Deer Range: 520 SQ MI
+% Deer Range: 58%
+Public Land: 49 SQ MI
+% Public Land: 6%
+
+Deer Range on
+Public Land:
+45 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Jefferson
+
+Total Area: 582SQ MI
+Deer Range: 222 SQ MI
+% Deer Range: 38%
+Public Land: 35 SQ MI
+% Public Land: 6%
+
+Deer Range on
+Public Land:
+30 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Iron
+
+Total Area: 770SQ MI
+Deer Range: 712SQ MI
+% Deer Range: 92%
+Public Land: 511SQ MI
+% Public Land: 66%
+
+Deer Range on
+Public Land:
+483 SQMI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Green Lake
+
+Total Area: 380SQ MI
+Deer Range: 179 SQ MI
+% Deer Range: 47%
+Public Land: 30 SQ MI
+% Public Land: 8%
+
+Deer Range on
+Public Land:
+27 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Langlade
+
+Total Area: 887SQ MI
+Deer Range: 769 SQ MI
+% Deer Range: 87%
+Public Land: 366 SQ MI
+% Public Land: 41%
+
+Deer Range on
+Public Land:
+361 SQMI
+
+==================================
+
+Deer Management Unit
+(DMu):
+St Croix
+
+Total Area: 736SQ MI
+Deer Range: 282 SQ MI
+% Deer Range: 38%
+Public Land: 34 SQ MI
+% Public Land: 5%
+
+Deer Range on
+Public Land:
+
+20 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Waupaca
+
+Total Area: 765SQ MI
+Deer Range: 526 SQ MI
+% Deer Range: 69%
+Public Land: 16 SQ MI
+% Public Land: 2%
+
+Deer Range on
+Public Land:
+14 SQ MI
+==================================
+
+Deer Management Unit
+(DMu):
+Dodge
+
+Total Area: 907SQ MI
+Deer Range: 272SQ MI
+% Deer Range: 30%
+Public Land: 72 SQ MI
+% Public Land: 8%
+
+Deer Range on
+Public Land:
+58 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Shawano
+
+Total Area: 909SQ MI
+Deer Range: 634SQ MI
+% Deer Range: 70%
+Public Land: 31 SQ MI
+% Public Land: 3%
+
+Deer Range on
+Public Land:
+29 SQ MI
+==================================
+
+Deer Management Unit
+(DMu):
+
+Racine
+
+Total Area: 340SQ MI
+Deer Range: 90 SQ MI
+% Deer Range: 26%
+Public Land: 7SQ MI
+% Public Land: 2%
+
+Deer Range on
+Public Land:
+6 SQMI
+
+==================================
+
+Deer Management Unit
+(DMu):
+Rock
+
+Total Area: 726SQ MI
+Deer Range: 157SQ MI
+% Deer Range: 22%
+Public Land: 28 SQ MI
+% Public Land: 4%
+
+Deer Range on
+Public Land:
+13 SQ MI
+==================================
+
+Deer Management Unit
+(DMu):
+
+Trempealeau
+
+Total Area: 742SQ MI
+Deer Range: 514SQ MI
+% Deer Range: 69%
+Public Land: 24 SQ MI
+% Public Land: 3%
+
+Deer Range on
+Public Land:
+18 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Eau Claire
+
+Total Area: 645S5Q MI
+Deer Range: 439 SQ MI
+% Deer Range: 68%
+Public Land: 97 SQ MI
+% Public Land: 15%
+
+Deer Range on
+Public Land:
+95 SQ MI
+
+==================================
+
+Deer Management Unit
+(DMu):
+
+Door
+
+Total Area: 489SQ MI
+Deer Range: 300 SQ MI
+% Deer Range: 61%
+Public Land: 39 SQ MI
+% Public Land: 8%
+
+Deer Range on
+Public Land:
+37 SQ MI
+
+==================================
+
