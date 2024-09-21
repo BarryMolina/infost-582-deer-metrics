@@ -1,5 +1,9 @@
 import puppeteer from "puppeteer";
 
+/**
+ * This script is used to systematically download PDF deer reports for every county in WI
+ */
+
 const browser = await puppeteer.launch({ headless: true });
 const page = await browser.newPage();
 

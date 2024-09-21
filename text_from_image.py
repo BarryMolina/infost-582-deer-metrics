@@ -4,6 +4,11 @@ from pathlib import Path
 import os
 
 
+"""
+This script performs OCR analysis to extract deer metrics for each WI county
+The ouput of this script is cleaned and then fed to ChatGPT to create the final data structure
+"""
+
 input_dir = os.path.join(os.getcwd(), 'metric_screenshots')
 output_dir = os.path.join(os.getcwd(), 'metric_text')
 

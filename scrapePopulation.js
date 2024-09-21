@@ -1,5 +1,9 @@
 import puppeteer from "puppeteer";
 
+/**
+ * This script is used to take screenshots of deer abundance charts provided by the WI DNR
+ */
+
 const browser = await puppeteer.launch({ headless: true });
 const page = await browser.newPage();
 const outputDir = "pop_images";
